@@ -10,6 +10,8 @@ personal website
 • Added resume link and url of colleges
 • used flex in css
 
+[github](https://ravi-teja-reddy.github.io/)
+
 
 
 
